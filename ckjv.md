@@ -1,5 +1,7 @@
-| VN                |      Chinese(Mandarin)    |      Korean              |   Japanese    |
+| VN                |      Chinese(Mandarin)    |      Korean               |   Japanese    |
 |-------------------|---------------------------|---------------------------|---------------|
+| ẩm thực           | 飲食(yǐn shí)              | 음식 (eum-sik )             | 飲食(in shoku) |
+| bia               | 碑(bēi)                    | 비 (bi)                    | 碑(ishizumi) |
 | cô độc            | 孤独(gū dú)                | 고독 (go dok)               | 孤独(ko doku) |
 | thời đại          | 時代(shí dài)              | 시대 (si dae)               | 時代(ji dai) |
 | thời gian         | 時間(shí jiān)             | 시간(si gan)                |  時間(ji kan) |
@@ -11,6 +13,7 @@
 | Phan              | 潘 (Pān)                  | 반(Pan)                     | 潘(Pan) |
 | cao thủ           | 高手  (gāo shǒu)          | 고수(go su)                  | 高手(Taka te) |
 | Long Phi bất bại  | 龍飛不敗 (Lóng Fēi bù bài) | 용비불패(Yong Bi bulpae)      | 龍飛 不敗(Tabi fuhai) |
+| giao lưu          | 交流 (jiāo liú)           | 교류(gyo ryu)                | 交流(kou ryuu) |
 | mười người mười vẻ| 十人十色 (shí rén shí sè)  | 십인십색(ship-in-ship-saek)   | 十人十色(ju nin to iro) |
 | trung quốc        | 中國 (zhōng guó)          | 중국(jung guk)               | 中國(chū goku) |
 | anh               | 英 (yīng)                 | 영(yeong)                   | 英(ei) |
@@ -21,7 +24,7 @@
 | mạt trà           | 抹茶(mǒ chá)              | 말차 (mal cha)                | 抹茶(matcha) |
 | khả năng          | 可能(kě néng)              | 가능 (ge neung)                | 可能(ka nou) |
 | tài năng          | 才能(cái néng)             | 재능 (jae neung)               | 才能(sai nou) |
-| năng              | 能力(néng lì)             | 능력  (neung nyeok)            | 能力(nou ryoku) |
+| năng lực          | 能力(néng lì)             | 능력  (neung nyeok)            | 能力(nou ryoku) |
 | hạnh phúc         | 幸福(xìng fú)             | 행복 (haeng bok)              | 幸福(koo fuku) |
 | khủng long        | 恐龍(kǒng lóng)           | 공룡 (gong nyong)             | 恐龍/恐竜(kyō ryū) |
 | vĩnh viễn         | 永遠(yǒng yuǎn)           | 영원  (yeong won)             | 永遠(ei en) |
@@ -38,4 +41,7 @@
 | huynh             | 兄(xiōng)                 | 형 (hyeong)            | 兄(ani) |
 | nhân quả          | 因果(yīn guǒ)             | 인과 (in gwa)           | 因果(in ga) |
 | chính phủ         | 政府(zhèng fǔ)            | 정부 (jeong bu)         | 政府(sei fu) |
+| thiên(1000)       | 千(qian)                  | 천 (cheon)             | 千(sen) |
+| quản lí           | 管理(guǎn lǐ)             | 관리 (gwal ri)          | 管理(kan ri) |
+| quang cảnh        | 光景(guāng jǐng)          | 관찰 (gwan chal)        | 光景(kou kei) |
 | a di đà phật      | 阿弥陀佛(Ē mí tuó Fó)      | 아미타불 (a mi ta bul)   | 弥み陀だ仏(a mi da but) |
