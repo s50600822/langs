@@ -5,17 +5,20 @@
 | bia(đá)           | 碑(bēi)                    | 비 (bi)                    | 碑(ishizumi) |
 | bí mật            | 秘密(mì mì)                | 秘密 (bi mil)              | 秘密(hi mitsu) |
 | cô độc            | 孤独(gū dú)                | 고독 (go dok)               | 孤独(ko doku) |
+| đạo lí            | 道理(dào lǐ)               | 도리 (do ri)                | 道理(dou ri) |
+| lí luận           | 理論(lǐ lùn)               | 이론 (i ron)                | 理論(ri ron) |
+| lưu li            | 琉璃(liú lí)               | 유리 (yu ri)                | 琉璃(ru ri) |
 | thời đại          | 時代(shí dài)              | 시대 (si dae)               | 時代(ji dai) |
 | thời gian         | 時間(shí jiān)             | 시간(si gan)                |  時間(ji kan) |
 | thâm hải          | 深海(shēn hǎi)             | 심해 (sim hae)              | 深海(shin kai)|
 | hải ngoại         | 海外(hǎi wài)              | 해외 (hae we)              | 海外(kai gai)|
 | hoà bình          | 和平(hé píng)              | 화평 (hwa pyeong)           | 和平(wa hei) |
-| huy               | 輝(huī)                    | 휘 (hwi)                   |  |
-| tri thức          | 知識 (zhī shi)            | 지식 知識(jisik)             | 知識(chi shiki) |
-| Phan              | 潘 (Pān)                  | 반(Pan)                     | 潘(Pan) |
-| cao thủ           | 高手  (gāo shǒu)          | 고수(go su)                  | 高手(Taka te) |
+| huy               | 輝(huī)                    | 휘 (hwi)                   |             |
+| tri thức          | 知識 (zhī shi)             | 지식 知識(jisik)             | 知識(chi shiki) |
+| Phan              | 潘 (Pān)                   | 반(Pan)                     | 潘(Pan) |
+| cao thủ           | 高手  (gāo shǒu)           | 고수(go su)                  | 高手(Taka te) |
 | Long Phi bất bại  | 龍飛不敗 (Lóng Fēi bù bài) | 용비불패(Yong Bi bulpae)      | 龍飛 不敗(Tabi fuhai) |
-| gan               | 肝 (gān)                 | 간(gan)                      | 肝(kimo) |
+| gan               | 肝 (gān)                  | 간(gan)                      | 肝(kimo) |
 | giao lưu          | 交流 (jiāo liú)           | 교류(gyo ryu)                | 交流(kou ryuu) |
 | mười người mười vẻ| 十人十色 (shí rén shí sè)  | 십인십색(ship-in-ship-saek)   | 十人十色(ju nin to iro) |
 | trung quốc        | 中國 (zhōng guó)          | 중국(jung guk)               | 中國(chū goku) |
@@ -49,6 +52,8 @@
 | chính phủ         | 政府(zhèng fǔ)            | 정부 (jeong bu)         | 政府(sei fu) |
 | chính trị         | 政治(zhèng zhì)           | 정치 (jeong ji)        | 政治(sei ji) |
 | thiên(1000)       | 千(qian)                  | 천 (cheon)             | 千(sen) |
+| thiên lí          | 天理(tiān lǐ)             | 천리 (cheol ri)         | 天理(ten ri) |
+| tự nhiên          | 自然(zì rán)              | 자연 (ja yeon)          | 自然(shi zen) |
 | quản lí           | 管理(guǎn lǐ)             | 관리 (gwal ri)          | 管理(kan ri) |
 | quang cảnh        | 光景(guāng jǐng)          | 관찰 (gwan chal)        | 光景(kou kei) |
 | a di đà phật      | 阿弥陀佛(Ē mí tuó Fó)      | 아미타불 (a mi ta bul)   | 弥み陀だ仏(a mi da but) |
