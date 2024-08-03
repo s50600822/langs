@@ -5,15 +5,20 @@
 | bia(đá)           | 碑(bēi)                    | 비 (bi)                    | 碑(ishizumi) |
 | bí mật            | 秘密(mì mì)                | 秘密 (bi mil)              | 秘密(hi mitsu) |
 | cô độc            | 孤独(gū dú)                | 고독 (go dok)               | 孤独(ko doku) |
+| chúc phúc         | 祝福(zhù fú)               | 축복 (chuk pok)             | 祝福(shuku fuku)|
 | đạo lí            | 道理(dào lǐ)               | 도리 (do ri)                | 道理(dou ri) |
 | lí luận           | 理論(lǐ lùn)               | 이론 (i ron)                | 理論(ri ron) |
+| li biệt           | 離別(lí bié)               | 이별 (i byeol)              | 離別(ri betsu) |
 | lưu li            | 琉璃(liú lí)               | 유리 (yu ri)                | 琉璃(ru ri) |
 | thời đại          | 時代(shí dài)              | 시대 (si dae)               | 時代(ji dai) |
-| thời gian         | 時間(shí jiān)             | 시간(si gan)                |  時間(ji kan) |
+| thời gian         | 時間(shí jiān)             | 시간(si gan)                | 時間(ji kan) |
 | thâm hải          | 深海(shēn hǎi)             | 심해 (sim hae)              | 深海(shin kai)|
+| hải dương         | 海洋(hǎi yáng)              | 해양 (hae yang)            | 海洋(kai you)|
 | hải ngoại         | 海外(hǎi wài)              | 해외 (hae we)              | 海外(kai gai)|
 | hoà bình          | 和平(hé píng)              | 화평 (hwa pyeong)           | 和平(wa hei) |
+| cộng hoà          | 共和(gòng hé)              | 공화 (gong hwa)             | 共和(kyou wa) |
 | huy               | 輝(huī)                    | 휘 (hwi)                   |             |
+| hùng vĩ           | 雄偉(xióng wěi)            | 웅위 (ung wi)               |雄偉(yu ui)   |
 | tri thức          | 知識 (zhī shi)             | 지식 知識(jisik)             | 知識(chi shiki) |
 | Phan              | 潘 (Pān)                   | 반(Pan)                     | 潘(Pan) |
 | cao thủ           | 高手  (gāo shǒu)           | 고수(go su)                  | 高手(Taka te) |
@@ -26,14 +31,16 @@
 | mĩ                | 美 (měi)                  | 미(mi)                      | 美(mi) |
 | mì                | 麵 (miàn-> 拉麵/lā miàn)   | 면(myeon->라면/ra myeon)     | 麵(men-> 拉麺/ramen) |
 | nhân quả          | 因果 (yīn guǒ	)           | 인과(in gwa)                 | 因果(in ga) |
+| nhục              | 辱 (rǔ)                   | 욕(yok)                     | 辱(haji) |
 | tiên sinh         | 先生 (xiān sheng)         | 선생(seon saeng)             | 先生(sen sei) |
 | truyền thống      | 傳統 (chuán tǒng)         | 전통(jeon tong)              | 伝統(den tou) |
 | trà               | 茶(chá)                   | 차 (cha)                     | 茶(cha) |
 | mạt trà           | 抹茶(mǒ chá)              | 말차 (mal cha)                | 抹茶(matcha) |
+| khái niệm         | 概念(gài niàn)             | 개념 (gae nyeom)               | 概念(gai nen)   |
 | khả năng          | 可能(kě néng)              | 가능 (ge neung)                | 可能(ka nou) |
 | tài năng          | 才能(cái néng)             | 재능 (jae neung)               | 才能(sai nou) |
 | năng lực          | 能力(néng lì)             | 능력  (neung nyeok)            | 能力(nou ryoku) |
-| hạnh phúc         | 幸福(xìng fú)             | 행복 (haeng bok)              | 幸福(koo fuku) |
+| hạnh phúc         | 幸福(xìng fú)             | 행복 (haeng bok)              | 幸福(kou fuku) |
 | khủng long        | 恐龍(kǒng lóng)           | 공룡 (gong nyong)             | 恐龍/恐竜(kyō ryū) |
 | vĩnh viễn         | 永遠(yǒng yuǎn)           | 영원  (yeong won)             | 永遠(ei en) |
 | đảng              | 黨(dǎng)                  | 당  (dang)                   | 黨(tou) |
@@ -54,7 +61,26 @@
 | thiên(1000)       | 千(qian)                  | 천 (cheon)             | 千(sen) |
 | thiên lí          | 天理(tiān lǐ)             | 천리 (cheol ri)         | 天理(ten ri) |
 | tự nhiên          | 自然(zì rán)              | 자연 (ja yeon)          | 自然(shi zen) |
+| tử hình           | 死刑(sǐ xíng)             | 사형 (sa hyeong)        | 死刑(shi kei) |
+| tử thủ            | 死守(sǐ shǒu)             | 사수 (sa su)            | 死守(shi shu) |
+| tử vong           | 死亡(sǐ wáng)             | 사망 (sa mang)          | 死亡(shi bou) |
 | quản lí           | 管理(guǎn lǐ)             | 관리 (gwal ri)          | 管理(kan ri) |
 | quang cảnh        | 光景(guāng jǐng)          | 관찰 (gwan chal)        | 光景(kou kei) |
 | a di đà phật      | 阿弥陀佛(Ē mí tuó Fó)      | 아미타불 (a mi ta bul)   | 弥み陀だ仏(a mi da but) |
+| niệm phật         | 念佛(niàn fó)             | 염불 (yeom bul)         | 念仏(nen butsu) |
 | thế éo nào        |                           | 도대체 (do dae che)     | どんだけ(don da ke) |
+| nam tử            | 男子(nán zǐ)              | 남자 (nam ja)           | 男子(dan shi) |
+| nữ tử             | 女子(nǚ zǐ)               | 여자 (yeo ja)           | 女子(jo shi) |
+| điện tử           | 電子(nǚ zǐ)               | 전자 (jeon ja)          | 電子(den shi) |
+| quân              | 君(jūn)                   | 군 (gun)               | 君(kun) |
+| trương            | 張(zhāng)                 | 장 (jang)              | 張(chou) |
+| khẩn trương       | 緊張(jǐn zhāng)           | 긴장 (gin jang)         | 緊張(kin chou) |
+| khẩn cấp          | 緊急(jǐn jí)              | 긴장 (gin geup)         | 緊急(kin kyuu) |
+| kiện khang        | 健康(jiàn kāng)           | 건강 (geon gang)        | 健康(ken kou) |
+| kiện toàn         | 健全(jiàn quán)           | 건전 (geon jeon)        | 健全(ken zen) |
+| tự do             | 自由(zì yóu)              | 자유 (ja yu)            | 自由(ji yuu) |
+| tự động           | 自動(zì dòng)             | 자동 (ja dong)          | 自動(ji dou) |
+| tự lập            | 自立(zì lì)               | 자립 (ja rip)           | 自立(ji ritsu) |
+| tự túc            | 自足(zì zú)               | 자족 (ja jok)           | 自足(ji soku) |
+| trung thành       | 忠誠(zhōng chéng)         | 충성 (chungseong)       | 忠誠(chuusei) |
+| trung ngôn nghịch nhĩ | 忠言逆耳(zhōng yán nì ěr) | 충언역이 (chungeon yeogi) | 忠言逆耳(chuugengyakuji) |
