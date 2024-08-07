@@ -6,17 +6,25 @@
 | bí mật            | 秘密(mì mì)                | 秘密 (bi mil)              | 秘密(hi mitsu) |
 | cô độc            | 孤独(gū dú)                | 고독 (go dok)               | 孤独(ko doku) |
 | chúc phúc         | 祝福(zhù fú)               | 축복 (chuk pok)             | 祝福(shuku fuku)|
+| dũng cảm          | 勇敢(yǒng gǎn)             | 용감 (yong gan)             | 勇敢(yuu kan) |
+| dũng giả          | 勇者(yǒng zhě)             | 용자 (yong ja)              | 勇者(yuu sha) |
+| dũng khí          | 勇氣(yǒng qì)              | 용기 (yong ki)              | 勇氣(yuu ki) |
+| dũng mãnh         | 勇猛(yǒng měng)            | 용맹 (yong maeng)           | 勇猛(yuu mou) |
 | đạo lí            | 道理(dào lǐ)               | 도리 (do ri)                | 道理(dou ri) |
 | lí luận           | 理論(lǐ lùn)               | 이론 (i ron)                | 理論(ri ron) |
 | li biệt           | 離別(lí bié)               | 이별 (i byeol)              | 離別(ri betsu) |
 | lưu li            | 琉璃(liú lí)               | 유리 (yu ri)                | 琉璃(ru ri) |
+| thiêú niên        | 少年(shào nián)            | 소년 (so nyeon)             | 少年(shou nen)|
+| thiêú nữ          | 少女(shào nǚ)              | 소녀 (so nyeo)              | 少女(shou jo)|
 | thời đại          | 時代(shí dài)              | 시대 (si dae)               | 時代(ji dai) |
 | thời gian         | 時間(shí jiān)             | 시간(si gan)                | 時間(ji kan) |
 | thâm hải          | 深海(shēn hǎi)             | 심해 (sim hae)              | 深海(shin kai)|
-| hải dương         | 海洋(hǎi yáng)              | 해양 (hae yang)            | 海洋(kai you)|
-| hải ngoại         | 海外(hǎi wài)              | 해외 (hae we)              | 海外(kai gai)|
+| hải dương         | 海洋(hǎi yáng)             | 해양 (hae yang)             | 海洋(kai you)|
+| hải ngoại         | 海外(hǎi wài)              | 해외 (hae we)               | 海外(kai gai)|
 | hoà bình          | 和平(hé píng)              | 화평 (hwa pyeong)           | 和平(wa hei) |
-| cộng hoà          | 共和(gòng hé)              | 공화 (gong hwa)             | 共和(kyou wa) |
+| bão hoà           | 飽和(bǎo hé)               | 포화 (po hwa)               | 飽和(hou wa) |
+| cộng hoà          | 共和(gòng hé)              | 공화 (gong hwa)             | 共和(kyou wa)|
+| nhu hoà           | 柔和 (róu hé)              |                            | 柔和 (nyuuwa)|
 | huy               | 輝(huī)                    | 휘 (hwi)                   |             |
 | hùng vĩ           | 雄偉(xióng wěi)            | 웅위 (ung wi)               |雄偉(yu ui)   |
 | tri thức          | 知識 (zhī shi)             | 지식 知識(jisik)             | 知識(chi shiki) |
@@ -71,16 +79,21 @@
 | thế éo nào        |                           | 도대체 (do dae che)     | どんだけ(don da ke) |
 | nam tử            | 男子(nán zǐ)              | 남자 (nam ja)           | 男子(dan shi) |
 | nữ tử             | 女子(nǚ zǐ)               | 여자 (yeo ja)           | 女子(jo shi) |
-| điện tử           | 電子(nǚ zǐ)               | 전자 (jeon ja)          | 電子(den shi) |
+| điện tử           | 電子(diàn zǐ)             | 전자 (jeon ja)          | 電子(den shi) |
 | quân              | 君(jūn)                   | 군 (gun)               | 君(kun) |
 | trương            | 張(zhāng)                 | 장 (jang)              | 張(chou) |
 | khẩn trương       | 緊張(jǐn zhāng)           | 긴장 (gin jang)         | 緊張(kin chou) |
 | khẩn cấp          | 緊急(jǐn jí)              | 긴장 (gin geup)         | 緊急(kin kyuu) |
 | kiện khang        | 健康(jiàn kāng)           | 건강 (geon gang)        | 健康(ken kou) |
 | kiện toàn         | 健全(jiàn quán)           | 건전 (geon jeon)        | 健全(ken zen) |
+| tâm tư            | 心思(zì yóu)              | 심사 (sim sa)            | 自由(ji yuu) |
 | tự do             | 自由(zì yóu)              | 자유 (ja yu)            | 自由(ji yuu) |
 | tự động           | 自動(zì dòng)             | 자동 (ja dong)          | 自動(ji dou) |
 | tự lập            | 自立(zì lì)               | 자립 (ja rip)           | 自立(ji ritsu) |
 | tự túc            | 自足(zì zú)               | 자족 (ja jok)           | 自足(ji soku) |
+| thiền             | 禪(chán)                  |                       |    禪(zen)    |
+| thần bí           | 神祕(shén mì)             | 신비  (sin bi)          |              |
+| thần thoại        | 神話(shén huà)            | 신화  (sin wa)          | 神話(shin wa) |
+| tinh thần         | 精神 (jīng shén)          | 정신  (jeong sin)     | 精神 (sei shin) |
 | trung thành       | 忠誠(zhōng chéng)         | 충성 (chungseong)       | 忠誠(chuusei) |
 | trung ngôn nghịch nhĩ | 忠言逆耳(zhōng yán nì ěr) | 충언역이 (chungeon yeogi) | 忠言逆耳(chuugengyakuji) |
