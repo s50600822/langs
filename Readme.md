@@ -5,6 +5,8 @@
 | bia(đá)           | 碑(bēi)                    | 비 (bi)                    | 碑(ishizumi) |
 | bí mật            | 秘密(mì mì)                | 秘密 (bi mil)              | 秘密(hi mitsu) |
 | cô độc            | 孤独(gū dú)                | 고독 (go dok)               | 孤独(ko doku) |
+| công bằng         | 公平 (gōng píng)           | 공평 (gong pyeong)         | 公平 (kou hei)|
+| công cộng         | 公共 (gōng gòng)           | 공공 (gong gong)           | 公共 (kou kyou)|
 | chúc phúc         | 祝福(zhù fú)               | 축복 (chuk pok)             | 祝福(shuku fuku)|
 | dũng cảm          | 勇敢(yǒng gǎn)             | 용감 (yong gan)             | 勇敢(yuu kan) |
 | dũng giả          | 勇者(yǒng zhě)             | 용자 (yong ja)              | 勇者(yuu sha) |
@@ -91,9 +93,12 @@
 | tự động           | 自動(zì dòng)             | 자동 (ja dong)          | 自動(ji dou) |
 | tự lập            | 自立(zì lì)               | 자립 (ja rip)           | 自立(ji ritsu) |
 | tự túc            | 自足(zì zú)               | 자족 (ja jok)           | 自足(ji soku) |
-| thiền             | 禪(chán)                  |                       |    禪(zen)    |
-| thần bí           | 神祕(shén mì)             | 신비  (sin bi)          |              |
-| thần thoại        | 神話(shén huà)            | 신화  (sin wa)          | 神話(shin wa) |
-| tinh thần         | 精神 (jīng shén)          | 정신  (jeong sin)     | 精神 (sei shin) |
-| trung thành       | 忠誠(zhōng chéng)         | 충성 (chungseong)       | 忠誠(chuusei) |
+| thiền             | 禪(chán)                  |                        |    禪(zen)    |
+| thần bí           | 神祕(shén mì)             | 신비 (sin bi)           |              |
+| thần thoại        | 神話(shén huà)            | 신화 (sin wa)           | 神話(shin wa) |
+| tinh thần         | 精神 (jīng shén)          | 정신 (jeong sin)        | 精神 (sei shin) |
+| trung thành       | 忠誠(zhōng chéng)         | 충성 (chungseong)        | 忠誠(chuusei) |
+| trung tâm         | 中心(zhōng xīn)           | 중심 (jung sim)          | 中心(chuu shin) |
+| an tâm            | 安心(ān xīn)              | 안심 (an sim)            | 安心(an shin) |
+| tâm đắc           | 心得 (xīn dé)             | 심득 (sim deuk)          | 心得 (koko roe) |
 | trung ngôn nghịch nhĩ | 忠言逆耳(zhōng yán nì ěr) | 충언역이 (chungeon yeogi) | 忠言逆耳(chuugengyakuji) |
